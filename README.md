@@ -11,8 +11,7 @@ This is a simple movie website created using only HTML and CSS. It provides a ba
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/ankman007/Movie-Website-.git
-
+git clone (https://github.com/shekeramit/movie-app)
 2. Navigate to the project directory:
 cd Movie-Website
 
@@ -33,7 +32,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 4. Make your changes and commit them with descriptive commit messages.
 5. Push your changes to your fork on GitHub.
 6. Submit a pull request to the `main` branch of the original repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
